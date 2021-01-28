@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    line-height: 1.4;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.6rem;
+    
+}
+
+.contenedor {
+    max-width: 1200px;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.formulario{
+    margin-top: 20rem;
+    padding: 2%;
+}
+
+.formulario-contacto {
+    background-color: #ffffff;
+    padding: 2rem;
+    border: 1px solid #e3e3e3;
+}
